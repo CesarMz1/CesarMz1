@@ -3,7 +3,7 @@
 <h2>📊 Tableau Projects:</h2>
 
 - <b>Top 1000 IMDb Movies Dashboard: Data Visualization & Insights</b>
-  - [Praciting DS & Algos in Python]([https://github.com/joshmadakor1/Algorithms-Practice](https://public.tableau.com/app/profile/cesar.cesar2004/viz/Top1000IMDbMovies_17574408114970/Dashboard1))
+  - [Praciting DS & Algos in Python](https://public.tableau.com/app/profile/cesar.cesar2004/viz/Top1000IMDbMovies_17574408114970/Dashboard1)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
